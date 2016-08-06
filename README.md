@@ -1,6 +1,6 @@
 # Lock BBCode for Discourse
 
-A Discourse plugin to hide post contents to guest (anonymous).
+A Discourse plugin to lock post contents to guest (anonymous).
 
 ## Usage
 
