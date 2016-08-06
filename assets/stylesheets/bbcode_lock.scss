@@ -1,6 +1,7 @@
 .anon .lock {
   display: block;
   position: relative;
+  min-height: 20px;
 }
 
 .anon .lock.guest::before {
@@ -12,7 +13,7 @@
   height: 100%;
   background-color: white;
   color: red;
-  padding: 5px;
+  font-size: 18px;
   text-align: center;
   content: 'You must login to view this content';
 }
