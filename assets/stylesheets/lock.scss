@@ -1,0 +1,18 @@
+.anon .lock {
+  display: block;
+  position: relative;
+}
+
+.anon .lock.guest::before {
+  display: block;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: white;
+  color: red;
+  padding: 5px;
+  text-align: center;
+  content: 'You must login to view this content';
+}
