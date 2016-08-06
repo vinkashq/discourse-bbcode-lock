@@ -1,6 +1,6 @@
-# discourse-bbcode-lock
+# Lock BBCode for Discourse
 
-A Discourse plugin to lock post content from guest users using BBCode
+A Discourse plugin to hide post contents to guest (anonymous).
 
 ## Usage
 
