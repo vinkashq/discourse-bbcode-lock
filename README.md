@@ -7,6 +7,7 @@ A Discourse plugin to lock post content from guest users using BBCode
 In your posts, surround text with [lock=guest] ... [/lock]. For example:
 
 ```
+   I watched the murder mystery on TV last night. [lock=guest]The butler did it[/lock].
 ```
 
 ## Installation
